@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<microblogging>
+  <user>
+    <username>john_doe</username>
+    <name>John Doe</name>
+  </user>
+  <posts>
+    <post id="1">
+      <author>john_doe</author>
+      <content>Good morning everyone! Excited for the day ahead.</content>
+      <date>2024-03-27</date>
+    </post>
+    <post id="2">
+      <author>jane_smith</author>
+      <content>Having a great day! Just went for a long walk in the park.</content>
+      <date>2024-03-26</date>
+    </post>
+    <post id="3">
+      <author>john_doe</author>
+      <content>Just finished a fantastic book. Highly recommend it!</content>
+      <date>2024-03-25</date>
+    </post>
+  </posts>
+</microblogging>
